@@ -9,26 +9,26 @@ const projects = [
     category: "AI-Assisted Penetration Testing Framework",
     tools:
       "Python, Machine Learning, Kali Linux, Vulnerability Scanning, Log Analysis, Automated Risk Prioritization",
-    image: "/images/secureprobe.png",
+    image: "/images/secureprobe.jpg",
   },
   {
     title: "Automated Web Vulnerability Scanner",
     category: "Proactive Web Application Security Testing Tool",
     tools:
       "Python, Web Crawling, Fuzzing Engine, XSS Detection, SQL Injection Detection, Vulnerability Reporting",
-    image: "/images/AutomatedWebVulnScanner.png",
+    image: "/images/AutomatedWebVulnScanner.jpg",
   },
   {
     title: "STSH Stego",
     category: "Audio Steganography Security Tool",
     tools: "Python, Audio Processing (.wav), Encryption, Steganography Algorithms",
-    image: "/images/STSHStego.png",
+    image: "/images/STSHStego.jpg",
   },
   {
     title: "STSH Stego Lite",
     category: "Image Steganography Data Hiding Tool",
     tools: "Python, Image Processing, LSB Algorithm, Data Embedding & Extraction",
-    image: "/images/STSHStegoLite.png",
+    image: "/images/STSHStegoLite.jpg",
   },
 ];
 
