@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Tejaeshwar Singh shield icon">
+  <defs>
+    <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0ea5e9" />
+      <stop offset="100%" stop-color="#6366f1" />
+    </linearGradient>
+  </defs>
+  <path d="M32 4l20 7v16c0 10.6-6.7 20.2-17 24.4L32 60l-3-1.6C18.7 51.2 12 41.6 12 30V11z" fill="#0f172a" stroke="url(#g)" stroke-width="2" />
+  <path d="M18 16h28v6H18z" fill="url(#g)" opacity="0.4" />
+  <text x="50%" y="54%" text-anchor="middle" fill="url(#g)" font-family="'Segoe UI', 'Inter', sans-serif" font-weight="700" font-size="18">TS</text>
+</svg>
